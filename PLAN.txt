@@ -1,0 +1,32 @@
+[] Configurar Tailwin style
+  => Dependencias :
+  - tailwind-react-native-classnames
+[] Configurar Redux
+[] Crear el Home.js pantalla y el HeaderTaps.js botones
+  => Dependencias :
+  - react-native-google-places-autocomplete
+[] Crear el SearchBar.js
+  => Dependencias :
+  - react-native-google-places-autocomplete
+  - react-native-vector-icons
+  - react-native-elements
+[] Crear el Categories.js
+[] Crear el RestaurantItem.js y Actualizar Home.js con un FlatList de Categories y RestaurantItem
+[] Configurar variable de entorno .env
+  => update babel plugin.
+  => Dependencias :
+  - react-native-dotenv
+[] Crear BottomTaps.js
+[] Crear RestaurantDetail.js screen
+[] Crear About.js y MenuItem.js componentes para RestaurantDetail screen
+  => Dependencias :
+  - react-native-bouncy-checkbox
+[] Crear ViewCart y usar Redux para mantener el estado del Restaurante
+  => Dependencias :
+  - react-native-reanimated
+  - reanimated-bottom-sheet
+ [] Crear el OrderCompleted.js screen
+  => Dependencias :
+  -  lottie-react-native
+
+  
