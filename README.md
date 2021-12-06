@@ -22,4 +22,4 @@ Make Sure to Create a config.env file in backend/config directory and add approp
 ## Author
 
 **Instagram** Click [Here](https://www.instagram.com/maycol0428)
-**Facebook** Click [Here](https://www.instagram.com/maycolchristian.em)
+**Facebook** Click [Here](https://www.facebook.com/maycolchristian.em)
