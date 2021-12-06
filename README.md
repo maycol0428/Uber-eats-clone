@@ -15,8 +15,9 @@ Hi! My name is **Maycol Elcorrobarrutia Medina**.
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
 **Essential Variables**
-YELP_KEY
-GOOGLE_CLOUD_MAPS_KEY
+
+- YELP_KEY
+- GOOGLE_CLOUD_MAPS_KEY
 
 ## Author
 
